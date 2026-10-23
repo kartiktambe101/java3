@@ -6,7 +6,8 @@
 
 <h1> INSTAGRAM </h1>
 <h1> Homepage & Reel section </h1>
-<h3 style="color:green"> - 1.0.0 lived</h3>
+<h1> search , explore </h1>
+<h3 style="color:green"> - 2.0.0 lived</h3>
 
 
 

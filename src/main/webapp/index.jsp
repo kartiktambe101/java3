@@ -5,7 +5,7 @@
 <body>
 
 <h1> Welcome to INSTAGRAM </h1>
-<h1> Login , signin page
+<h1> Login , sign up page
 <h1> Homepage & Reel section </h1>
 <h1> search , explore </h1>
 <h1> setting , profile </h1>

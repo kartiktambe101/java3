@@ -1,10 +1,10 @@
 <html>
 <head>
-<title> Welcome to Deployment Day </title>
+<title> INSTAGRAM </title>
 </head>
 <body>
 
-<h1> INSTAGRAM </h1>
+<h1> Welcome to Instagram </h1>
 <h1> Homepage & Reel section </h1>
 <h1> search , explore </h1>
 <h1> setting , profile </h1>
